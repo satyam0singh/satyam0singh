@@ -1,95 +1,132 @@
-# Hi there 👋 I'm Satyam Singh
+<!-- ================= HEADER / TYPING ANIMATION ================= -->
 
-🎓 CSE (AI) Student | 💻 Frontend Developer | 🤖 Exploring AI & Computer Vision  
-📍 India  
-🔗 LinkedIn: www.linkedin.com/in/satyam-singh-41b695294  
+<h1 align="center">Hi 👋, I'm Satyam Singh</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=CSE+(AI)+Student;Frontend+Developer;AI+%7C+Computer+Vision+Explorer;Building+Real+World+Tech+Products" />
+</p>
+
+---
+
+<!-- ================= PROFILE VIEWS + BADGES ================= -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=satyam0singh&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/satyam0singh?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/satyam0singh?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 2nd Year CSE (AI) Student  
-- 💡 Passionate about building real-world tech products  
-- 🧠 Exploring AI, OpenCV & Smart Automation  
-- 🌐 Love creating clean, modern UI experiences  
-- 🏆 Hackathons | Tech Competitions | Idea-thons  
+
+🎓 CSE (AI) Student  
+💻 Frontend Developer  
+🤖 Exploring AI + OpenCV  
+🌐 UI/UX + Modern Web Experiences  
+🏆 Hackathons | Idea-thons | Tech Building  
+
+🔗 LinkedIn  
+👉 https://www.linkedin.com/in/satyam-singh-41b695294  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### 💻 Programming
-- Python  
-- C  
-- Java  
-- JavaScript  
+### 👨‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,java,js" />
+</p>
 
-### 🌐 Web Development
-- HTML  
-- CSS  
-- JavaScript  
-- Responsive UI Design  
+### 🌐 Web
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
-### 📊 Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- Figma (UI/UX Basics)  
-- Tableau (Data Visualization)  
-- MS Office (Excel, PowerPoint, Word)  
+### ⚙ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
 ### 📝 YO-DO (Todo App)
-- Modern productivity focused task manager  
-- Apple Notes inspired editor experience  
-- Clean UI + Productivity workflow design  
+✨ Apple Notes Inspired Editor  
+✨ Clean Productivity UI  
+✨ Smart Task Flow  
 
 ---
 
 ### 🎮 Ping Pong Game
-- Built using HTML, CSS, JavaScript  
-- Game physics + DOM manipulation  
+🎯 HTML + CSS + JavaScript  
+🎯 Physics Logic + DOM  
 
 ---
 
 ### 🌐 Portfolio Website
-- Personal developer portfolio  
-- Responsive design + modern layout  
-
----
-
-### 🖼️ Image Gallery + Weather App (Internship Work)
-- Lightbox gallery implementation  
-- OpenWeather API integration  
-- Error handling + responsive UI  
+📱 Fully Responsive  
+🎨 Modern UI Layout  
 
 ---
 
 ## 📚 Currently Learning
-- OpenCV Object Detection  
-- Advanced Java (OOP Concepts)  
-- Data Structures & Algorithms  
-- AI Based Product Thinking  
+
+🧠 OpenCV Object Detection  
+📦 Advanced Java (OOP)  
+📊 DSA Problem Solving  
+🤖 AI Product Development  
 
 ---
 
-## 📈 GitHub Stats
-*(Auto-updates when you push code)*
+## 📊 GitHub Stats (Animated)
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=satyam0singh&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam0singh&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
 
 ---
 
-## 🎯 2026 Goals
-- 🚀 Build Full Stack AI Projects  
-- 🧠 Master DSA + Problem Solving  
-- 💼 Land Strong Tech Internship  
-- 🌍 Contribute to Open Source  
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam0singh&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://github.com/satyam0singh/satyam0singh/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+*(You enable this using GitHub Actions later)*
+
+---
+
+## 🌟 2026 Goals
+
+🚀 Build AI + Full Stack Projects  
+🧠 Master DSA  
+💼 Land Strong Tech Internship  
+🌍 Open Source Contributions  
 
 ---
 
 ## 🤝 Connect With Me
-💼 LinkedIn → www.linkedin.com/in/satyam-singh-41b695294  
+
+<p align="center">
+<a href="https://www.linkedin.com/in/satyam-singh-41b695294">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
 
 ---
 
-⭐ *"Code. Learn. Build. Repeat."*
+<p align="center">
+✨ Code • Learn • Build • Repeat ✨
+</p>
