@@ -1,18 +1,3 @@
-Below is an **expert-level, production-grade GitHub Profile README** — not just animated, but **architected like top 1% GitHub profiles**:
-
-✔ Multi-layer animations
-✔ Dynamic metrics (real-time)
-✔ Dev branding hierarchy
-✔ AI + Engineering positioning
-✔ Recruiter + Open Source optimized
-✔ Advanced visual sections
-✔ Future-proof structure
-
----
-
-## ⭐ **ULTRA ADVANCED GITHUB PROFILE README**
-
-````markdown
 <!-- ===================================================== -->
 <!--                   DYNAMIC HEADER                      -->
 <!-- ===================================================== -->
@@ -62,32 +47,28 @@ Role: AI Focused Software Engineer (In Training)
 Primary Domain: Intelligent Applications + Frontend Systems
 Secondary Domain: Automation + Computer Vision
 Goal: Industry Ready AI Product Engineer
-````
+```
 
 ---
 
 ## 🧬 CORE TECH DNA
 
 ### 👨‍💻 Programming
-
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,js" />
 </p>
 
 ### 🌐 Frontend Engineering
-
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ### 🤖 AI / Data Direction
-
 <p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
 </p>
 
 ### ⚙ Engineering Tools
-
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
@@ -96,18 +77,18 @@ Goal: Industry Ready AI Product Engineer
 
 ## 🧠 CURRENT ENGINEERING FOCUS
 
-* Agentic AI Systems
-* Computer Vision (OpenCV)
-* DSA for Production Engineering
-* Intelligent UI Systems
-* AI Product Architecture
+- Agentic AI Systems  
+- Computer Vision (OpenCV)  
+- DSA for Production Engineering  
+- Intelligent UI Systems  
+- AI Product Architecture  
 
 ---
 
 ## 📊 ADVANCED GITHUB ANALYTICS
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyam0singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=satyam0singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam0singh&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -116,15 +97,21 @@ Goal: Industry Ready AI Product Engineer
 ## 📈 LANGUAGE DISTRIBUTION ENGINE
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam0singh&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=satyam0singh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
+
+<p align="center">
+<i>Most used languages across public repositories</i>
+</p>
+
+
 
 ---
 
 ## 🐍 CONTRIBUTION NEURAL FLOW (SNAKE ANIMATION)
 
 <p align="center">
-<img src="https://github.com/satyam0singh/satyam0singh/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/satyam0singh/satyam0singh/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -132,7 +119,7 @@ Goal: Industry Ready AI Product Engineer
 ## 🛰 ACTIVITY GRAPH (LIVE)
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyam0singh&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyam0singh&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&hide_border=true"/>
 </p>
 
 ---
@@ -140,24 +127,21 @@ Goal: Industry Ready AI Product Engineer
 ## 🧩 FEATURED ENGINEERING PROJECTS
 
 ### 📝 YO-DO — Intelligent Productivity System
-
-* Apple Notes Inspired Editor Architecture
-* UX Driven Task Workflow
-* Modular UI Component System
+- Apple Notes Inspired Editor Architecture  
+- UX Driven Task Workflow  
+- Modular UI Component System  
 
 ---
 
 ### 🎮 Physics Based Browser Game
-
-* JS Physics Simulation
-* Event Driven Rendering
+- JS Physics Simulation  
+- Event Driven Rendering  
 
 ---
 
 ### 🌐 Developer Portfolio System
-
-* Responsive Architecture
-* Component Based Layout Thinking
+- Responsive Architecture  
+- Component Based Layout Thinking  
 
 ---
 
@@ -200,5 +184,3 @@ Build → Break → Learn → Optimize → Ship → Repeat
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
 </p>
-```
-```
