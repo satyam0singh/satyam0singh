@@ -158,7 +158,7 @@ Phase 2:
 
 Phase 3:
   - Internship → Industry Entry
-  - Open Source Contribution
+  - Open Source Contributions
 ```
 
 ---
