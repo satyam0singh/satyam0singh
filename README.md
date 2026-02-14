@@ -2,7 +2,7 @@
 <!--                   DYNAMIC HEADER                      -->
 <!-- ===================================================== -->
 
-<h1 align="center">
+<h1 align="center ">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=SATYAM+SINGH;AI+ENGINEER+IN+PROGRESS;FRONTEND+%2B+INTELLIGENT+SYSTEMS;BUILDING+INDUSTRY+READY+TECH" />
 </h1>
 
