@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=SATYAM+SINGH;AI+ENGINEER+IN+PROGRESS;FRONTEND+%2B+INTELLIGENT+SYSTEMS;BUILDING+INDUSTRY+READY+TECH" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=SATYAM+SINGH;AI+ENGINEER+IN+PROGRESS;APP DEV+%2B+AGENTIC AI+AUTOMATIONS;BUILDING+INDUSTRY+READY+TECH" />
 </h1>
 
 <p align="center">
@@ -15,9 +15,7 @@
 <!-- ===================================================== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=satyam0singh&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/followers/satyam0singh?style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/satyam0singh?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Lover-00F7FF?style=for-the-badge" />
 </p>
 
 ---
@@ -61,7 +59,7 @@ Goal: Industry Ready AI Product Engineer & Flutter Developer
 ---
 ## 📊 ADVANCED GITHUB ANALYTICS
 
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyam0singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam0singh&theme=tokyonight&hide_border=true" /> </p><p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam0singh&layout=compact&theme=tokyonight&hide_border=true" /> </p><p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyam0singh&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&hide_border=true" /> </p>
+<p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam0singh&theme=tokyonight&hide_border=true" /> </p>
 
 ---
 
@@ -71,14 +69,8 @@ Goal: Industry Ready AI Product Engineer & Flutter Developer
 
 ---
 
-## 🏆 GITHUB TROPHIES
-
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=satyam0singh&theme=tokyonight&no-frame=true&column=7&margin-w=15" /> </p>
-
----
-
 ## 📬 CONNECT WITH ME
-<p align="center"> <a href="https://www.linkedin.com/in/satyam-singh-41b695294"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:satyam@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://twitter.com/satyam0singh"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="https://discord.gg/your-invite"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/satyam-singh-41b695294"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 
 ---
 
