@@ -46,7 +46,7 @@ Name: Satyam Singh
 Role: AI Focused Software Engineer (In Training)
 Primary Domain: Intelligent Applications + Frontend Systems
 Secondary Domain: Automation + Computer Vision
-Goal: Industry Ready AI Product Engineer
+Goal: Industry Ready AI Product Engineer & Flutter Developer
 ```
 
 ---
